@@ -110,12 +110,6 @@ The app opens at `http://localhost:8501`.
 - Economics use benchmark averages, not local prices.
 - Public APIs can be slow or temporarily unavailable.
 
----
-
-## 📄 License
-
-Add your license here (e.g. MIT).
-
 ## 🙏 Acknowledgements
 
 NASA POWER Project · USDA NASS · USDA NRCS · USDA ARS · Streamlit · Folium · Plotly
